@@ -1,0 +1,91 @@
+.header-main{
+    /*position: sticky;*/
+    /*width: 100%;*/
+    /*top: 0;*/
+}
+.header-top{
+    position: relative;
+    height: 98px;
+}
+.header-mobile-top{
+    position: relative;
+    height: 50px;
+
+}
+.logo-frame{
+    position: relative;
+    /*width: 300px;*/
+    /*line-height: 100%;*/
+    max-width: 300px;
+    background-color: #eeeef1;
+}
+.logo-mobile-frame{
+    position: relative;
+    background-color: #f7f6fb;
+    width: 100% !important;
+    padding-top: 5px;
+
+}
+.logo-mobile-frame .phone-number{
+    position: relative;
+    font-size: 13px;
+    color: #FFA601;
+    /*line-height: 1.2;*/
+    font-family: Fira Sans, sans-serif;
+    font-weight: 700;
+    vertical-align: center;
+    align-self: center;
+}
+.logo-mobile-frame .phone-inner-frame{
+    position: relative;
+    margin-left: 45px;
+}
+.logo-mobile-frame .phone-icon{
+    font-size: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    vertical-align: center;
+    margin-left: 11px;
+}
+.logo-mobile-frame .bars-icon{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+.logo-mobile-frame .toggle-icon{
+    position: relative;
+    margin-left: 5px;
+}
+.logo-mobile-frame .toggle-icon a{
+    color: black;
+    font-size: 24px;
+}
+.lang-switch{
+    font-size: 15px;
+    color: #000;
+    font-family: Fira Sans, sans-serif;
+}
+.ru{
+    margin-left: 25px;
+}
+.kaz{
+    margin-left: 10px;
+}
+.logo-image{
+    margin-right: 10px;
+}
+.logo-name{
+    margin-left: 10px;
+}
+.info-frame{
+    position: relative;
+    height: 100%;
+}
+.logo-mobile-image{
+    height: 40px;
+    width: 50px;
+}
